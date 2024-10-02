@@ -1,4 +1,4 @@
-p {
+.destra {
     color: blueviolet;
     text-align: right;
 }
@@ -36,7 +36,14 @@ h6{
 
 .articolo {
     font-size: 30px;
-    p {
-        text-align: left;
-    }
+}
+
+.primo {
+    padding: 20px;
+    text-align: center;
+}
+
+.secondo {
+    text-align: left;
+    background-color: brown;
 }
