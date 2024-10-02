@@ -5,31 +5,31 @@ p {
 
 
 
-    h1 {
+h1 {
         color: red;
-    }
+}
 
-    h2 {
+h2 {
         color: blue;
-    }
+}
 
-    h3 {
+h3 {
         color: black;
-    }
+}
 
-    h4 {
+h4 {
         color: green
-    }
+}
 
-    h5 {
+h5 {
         color: goldenrod;
-    }
+}
 
-    h6{
+h6{
         color: brown;
-    }
+}
 
-    h7 {
-        color: azure;
-    }
 
+#gold {
+    background-color: aquamarine;
+}
