@@ -33,3 +33,10 @@ h6{
 #gold {
     background-color: aquamarine;
 }
+
+.articolo {
+    font-size: 30px;
+    p {
+        text-align: left;
+    }
+}
