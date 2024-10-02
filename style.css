@@ -2,3 +2,34 @@ p {
     color: blueviolet;
     text-align: right;
 }
+
+
+
+    h1 {
+        color: red;
+    }
+
+    h2 {
+        color: blue;
+    }
+
+    h3 {
+        color: black;
+    }
+
+    h4 {
+        color: green
+    }
+
+    h5 {
+        color: goldenrod;
+    }
+
+    h6{
+        color: brown;
+    }
+
+    h7 {
+        color: azure;
+    }
+
