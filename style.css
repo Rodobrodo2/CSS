@@ -36,21 +36,15 @@ h6{
         color: brown;
 }
 
-
-#gold {
-    background-color: aquamarine;
+.titolo {
+        color: blue;
 }
 
-.articolo {
-    font-size: 30px;
+.argomento {
+        text-align: center;
 }
 
-.primo {
-    padding: 20px;
-    text-align: center;
-}
-
-.secondo {
-    text-align: left;
-    background-color: brown;
+.stile {
+        margin: 150px;
+        padding: 70px;
 }
