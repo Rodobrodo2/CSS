@@ -63,3 +63,16 @@ li:nth-of-type(5) {
 
 }
 
+
+.par .sopra {
+        color: blueviolet;
+}
+
+.par p {
+        color: aqua;
+}
+
+.par #sotto {
+        color: black;
+}
+
