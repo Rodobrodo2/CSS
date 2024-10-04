@@ -91,9 +91,13 @@ li:nth-of-type(5) {
         color: rgb(255, 0, 0);
 }
 
-#p5{
+#p5 {
         color: #FF0000;
 }
 
+#p6 {
+        color: rgba(255, 0, 0, 0.7);
+
+} 
 
 
