@@ -54,6 +54,7 @@ span {
     width: 40px; 
     padding: 40px;
     margin: 40px;
+    border: 1px solid blue;
 }
 
 .colum #p4 {
