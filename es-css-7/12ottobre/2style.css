@@ -6,7 +6,7 @@
 
 .topnav {
     position: fixed;
-    bottom: 0;
+    top: 0;
     right: 0;
     width: 100%;
     height: 60px;
@@ -62,4 +62,11 @@ span {
 
 .card-1 #p2 {
     clear: both;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
 }
