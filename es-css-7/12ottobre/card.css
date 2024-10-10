@@ -5,10 +5,10 @@
     border-radius: 5px;
 }
 
-.card #x {
+.card svg {
 position: relative;
-top: -180px;
-left: 70px;
+top: -370px;
+left: 265px;
 }
 
 .card:hover {
