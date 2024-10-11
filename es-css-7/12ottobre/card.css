@@ -45,3 +45,11 @@ img {
     height: 150px;
     background: blue;
 }
+
+.container-4 #p1 {
+    font-size: 7rem;
+}
+
+.container-4 #p2 {
+    font-size: 7em;
+}
