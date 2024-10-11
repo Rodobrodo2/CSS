@@ -34,3 +34,14 @@ img {
     height: 50%;
     background: red;
 }
+
+.container-3 {
+    width: 300px;
+    height: 300px
+}
+
+#quadrato-2 {
+    width: 150px;
+    height: 150px;
+    background: blue;
+}
