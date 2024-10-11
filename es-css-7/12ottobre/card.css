@@ -3,6 +3,11 @@
     --color-principale: #ff000f
 }
 
+:root {
+    --spacing-unit: 10px;
+    --padding: calc(0.2 * var(--spacing-unit))
+  }
+
 * {
     color: var(--color-principale)
 }
@@ -61,5 +66,9 @@ img {
 
 .container-4 #p2 {
     font-size: 7em;
+}
+
+#quadrato-2 {
+    padding: var(--padding)
 }
 
